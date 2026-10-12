@@ -5,8 +5,7 @@
   Hello World! 👋 I'm Mohamed Abdulghani Alqat
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" alt="Hi"/>
 </h1>
-
-
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=650&lines=Data+Analyst;Turning+Raw+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Aspiring+Data+Engineer" alt="Typing SVG"/>
 </p>
