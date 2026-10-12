@@ -6,10 +6,11 @@
 
 ### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=650&lines=Data+Analytics;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+DAX+%7C+Power+Query;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=mo1alqat&label=Profile%20Views&color=0e75b6&style=flat)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mo1alqat&label=Profile%20Views&color=0e75b6&style=flat"
+       alt="Profile Views"/>
+</p>
 </div>
 
 ---
