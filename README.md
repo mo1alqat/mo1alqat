@@ -6,9 +6,6 @@
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" alt="Hi"/>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mo1alqat&label=Profile%20Visits&color=blue&style=for-the-badge" alt="Profile Visits"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=650&lines=Data+Analyst;Turning+Raw+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Aspiring+Data+Engineer" alt="Typing SVG"/>
